@@ -1,0 +1,8 @@
+{
+  "name": "the-tarot-card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/the-playing-card/the-tarot-card.git",
+  "author": "GimYoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT"
+}
